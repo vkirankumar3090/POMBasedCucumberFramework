@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extentreports>
+    <configuration>
+    	<encoding>UTF-8</encoding>
+        <documentTitle>Smoke Test Report</documentTitle>
+        <reportName>Smoke Test</reportName>
+        <reportHeadline> -- Report</reportHeadline>        
+    </configuration>
+</extentreports>

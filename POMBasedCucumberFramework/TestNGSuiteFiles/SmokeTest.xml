@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Smoke Test">
+	<test name="Smoke Test">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.Trigger.SmokeTest" />			
+		</classes>
+	</test>	
+</suite>	
